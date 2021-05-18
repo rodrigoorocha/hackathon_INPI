@@ -1,10 +1,12 @@
 <template>
   <div id="app">
     <b-jumbotron
-      align="center"
+      align="center"    
+
+      
       style="background-color: #1b263b"
       header="Marca coletiva"
-      lead="-----     Descubra aqui se sua marca se encaixa em uma marca coletiva     -----"
+      lead="-----     Descubra aqui se sua marca se encaixa em uma marca coletiva aaa     -----"
     >
       <b-button size="lg" variant="outline-light" to="/Quiz"
         >Iniciar teste</b-button
